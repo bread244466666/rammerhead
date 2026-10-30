@@ -27,7 +27,6 @@
   "dependencies": {
     "async-exit-hook": "^2.0.1",
     "crypto-md5": "^1.0.0",
-    "dotenv-flow": "^3.2.0",
     "http-proxy-agent": "^7.0.0",
     "lru-cache": "^7.14.1",
     "mime": "^2.5.2",
@@ -42,6 +41,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
+    "dotenv-flow": "^3.2.0",
     "eslint": "^7.32.0",
     "npm-force-resolutions": "0.0.10",
     "playwright": "^1.64.0",
